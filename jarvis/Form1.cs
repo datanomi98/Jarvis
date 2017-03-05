@@ -54,7 +54,7 @@ namespace jarvis
             string Speech = e.Result.Text;
 
 
-
+            //not working
             if (e.Result.Text.Contains("search for"));
             {
                 Speech = String.Empty;
@@ -63,8 +63,8 @@ namespace jarvis
 
             }
 
-
-            if(search == true)
+            //not working
+            if (search == true)
             {
                 Process.Start("https://www.google.fi/#q=" + Speech);
                 search = false;
