@@ -1,0 +1,42 @@
+c:\users\nörtti\documents\visual studio 2015\Projects\jarvis\jarvis\bin\Debug\jarvis.exe.config
+c:\users\nörtti\documents\visual studio 2015\Projects\jarvis\jarvis\bin\Debug\jarvis.exe
+c:\users\nörtti\documents\visual studio 2015\Projects\jarvis\jarvis\bin\Debug\jarvis.pdb
+c:\users\nörtti\documents\visual studio 2015\Projects\jarvis\jarvis\obj\Debug\jarvis.Jarvis.resources
+c:\users\nörtti\documents\visual studio 2015\Projects\jarvis\jarvis\obj\Debug\jarvis.Properties.Resources.resources
+c:\users\nörtti\documents\visual studio 2015\Projects\jarvis\jarvis\obj\Debug\jarvis.csproj.GenerateResource.Cache
+c:\users\nörtti\documents\visual studio 2015\Projects\jarvis\jarvis\obj\Debug\jarvis.exe
+c:\users\nörtti\documents\visual studio 2015\Projects\jarvis\jarvis\obj\Debug\jarvis.pdb
+C:\Users\nörtti\documents\visual studio 2015\Projects\jarvis\jarvis\bin\Debug\jarvis.exe.manifest
+C:\Users\nörtti\documents\visual studio 2015\Projects\jarvis\jarvis\bin\Debug\jarvis.application
+C:\Users\nörtti\documents\visual studio 2015\Projects\jarvis\jarvis\obj\Debug\jarvis.exe.manifest
+C:\Users\nörtti\documents\visual studio 2015\Projects\jarvis\jarvis\obj\Debug\jarvis.application
+C:\Users\nörtti\documents\visual studio 2015\Projects\jarvis\jarvis\obj\Debug\jarvis.csprojResolveAssemblyReference.cache
+D:\jarvis\jarvis\bin\Debug\jarvis.exe.config
+D:\jarvis\jarvis\obj\Debug\jarvis.exe
+D:\jarvis\jarvis\obj\Debug\jarvis.pdb
+D:\jarvis\jarvis\bin\Debug\jarvis.exe.manifest
+D:\jarvis\jarvis\bin\Debug\jarvis.application
+D:\jarvis\jarvis\bin\Debug\jarvis.exe
+D:\jarvis\jarvis\bin\Debug\jarvis.pdb
+D:\jarvis\jarvis\obj\Debug\jarvis.csprojResolveAssemblyReference.cache
+D:\jarvis\jarvis\obj\Debug\jarvis.Jarvis.resources
+D:\jarvis\jarvis\obj\Debug\jarvis.Properties.Resources.resources
+D:\jarvis\jarvis\obj\Debug\jarvis.csproj.GenerateResource.Cache
+D:\jarvis\jarvis\obj\Debug\jarvis.exe.manifest
+D:\jarvis\jarvis\obj\Debug\jarvis.application
+F:\jarvis\jarvis\bin\Debug\jarvis.exe.config
+F:\jarvis\jarvis\obj\Debug\jarvis.exe
+F:\jarvis\jarvis\obj\Debug\jarvis.pdb
+F:\jarvis\jarvis\bin\Debug\jarvis.exe.manifest
+F:\jarvis\jarvis\bin\Debug\jarvis.application
+F:\jarvis\jarvis\bin\Debug\jarvis.exe
+F:\jarvis\jarvis\bin\Debug\jarvis.pdb
+F:\jarvis\jarvis\obj\Debug\jarvis.csprojResolveAssemblyReference.cache
+F:\jarvis\jarvis\obj\Debug\jarvis.Jarvis.resources
+F:\jarvis\jarvis\obj\Debug\jarvis.Properties.Resources.resources
+F:\jarvis\jarvis\obj\Debug\jarvis.csproj.GenerateResource.Cache
+F:\jarvis\jarvis\obj\Debug\jarvis.exe.manifest
+F:\jarvis\jarvis\obj\Debug\jarvis.application
+F:\jarvis\jarvis\obj\Debug\jarvis.Settings.resources
+D:\jarvis\jarvis\obj\Debug\jarvis.settings.resources
+F:\jarvis\jarvis\obj\Debug\jarvis.Form3.resources
